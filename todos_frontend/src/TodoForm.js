@@ -1,6 +1,5 @@
 import { useState } from "react";
 //import TodoList from './TodoList'
-import TodoItem from "./todoItem";
 
 function TodoForm(props) {
   let oldTodos = props.todos;
